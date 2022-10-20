@@ -1,1 +1,1 @@
-# Feature-Selecction-With-Tw-Parallel-Genetic-Algrtihms
+# Feature-Selecction-With-Two-Parallel-Genetic-Algrtihms
